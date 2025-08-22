@@ -1,6 +1,7 @@
 # Prompt Engineering Masterclass
 
 An interactive web application that teaches prompt engineering from beginner to advanced level with real-time API integration.
+<img width="841" height="857" alt="image" src="https://github.com/user-attachments/assets/8ca25961-c3de-4b14-a628-48884a0e20ce" />
 
 
 ## Features
